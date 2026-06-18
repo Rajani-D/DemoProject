@@ -1,1 +1,1 @@
-echo "Welcome to devops session"
+echo "Welcome to devops session!"
